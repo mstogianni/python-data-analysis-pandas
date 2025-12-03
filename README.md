@@ -98,7 +98,6 @@ Make sure you have the required packages installed:
 pip install pandas matplotlib numpy
 Then run:
 
-Copy code
 python student_grades_analysis.py
 ```
 You will see:
