@@ -108,14 +108,14 @@ Console output with filtered views and joins.
 Two plots: a histogram and a scatter plot.
 
 🎓 What This Project Demonstrates
-Basic data analysis with Pandas
+-Basic data analysis with Pandas
 
-Filtering, sorting, concatenation, and saving CSV files
+-Filtering, sorting, concatenation, and saving CSV files
 
-Handling missing values with mean imputation
+-Handling missing values with mean imputation
 
-Merging DataFrames (inner/outer join)
+-Merging DataFrames (inner/outer join)
 
-Creating histograms and scatter plots with Matplotlib
+-Creating histograms and scatter plots with Matplotlib
 
-Using both random and NumPy for random numbers
+-Using both random and NumPy for random numbers
