@@ -98,11 +98,24 @@ Make sure you have the required packages installed:
 pip install pandas matplotlib numpy
 Then run:
 
-bash
 Copy code
 python student_grades_analysis.py
+```
 You will see:
 
 Console output with filtered views and joins.
 
 Two plots: a histogram and a scatter plot.
+
+🎓 What This Project Demonstrates
+Basic data analysis with Pandas
+
+Filtering, sorting, concatenation, and saving CSV files
+
+Handling missing values with mean imputation
+
+Merging DataFrames (inner/outer join)
+
+Creating histograms and scatter plots with Matplotlib
+
+Using both random and NumPy for random numbers
