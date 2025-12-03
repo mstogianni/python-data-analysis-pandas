@@ -96,8 +96,9 @@ Make sure you have the required packages installed:
 
 ```bash
 pip install pandas matplotlib numpy
+```
 Then run:
-
+```bash
 python student_grades_analysis.py
 ```
 You will see:
